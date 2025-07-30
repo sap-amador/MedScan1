@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-torch
-monai
-pydicom
-python-multipart
-opencv-python
-pytorch-grad-cam
